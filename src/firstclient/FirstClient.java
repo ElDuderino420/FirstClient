@@ -36,9 +36,6 @@ public class FirstClient {
         it.start();
         ot.start();
         
-        
-        
-        
     }
     
     public static void main(String[] args) throws IOException {

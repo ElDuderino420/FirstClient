@@ -26,6 +26,7 @@ public class InputThread extends Thread{
     public void run() {
         
         while(true){
+            
             if(in.hasNext()){
                 out.println(in.nextLine());
             }
